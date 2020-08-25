@@ -1,0 +1,4 @@
+# HelloWorldProject
+
+ReactNative開発の勉強用に作成したHelloWorld用のProjectです
+開発環境はExpo-CLIを使用しています
